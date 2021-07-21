@@ -1,0 +1,10 @@
+pytz
+PyWavelets
+requests
+s3transfer
+scikit-image
+scipy
+six
+subprocess32
+toolz
+urllib3
